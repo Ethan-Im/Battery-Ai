@@ -1,0 +1,7 @@
+data/li_materials.csv
+data/li_electrolyte_candidates.csv
+data/obelix.csv
+data/merged_dataset.csv
+data/chgnet_results.csv
+__pycache__/
+.DS_Store
