@@ -5,3 +5,5 @@ data/merged_dataset.csv
 data/chgnet_results.csv
 __pycache__/
 .DS_Store
+rawdata/
+data/cifs/
