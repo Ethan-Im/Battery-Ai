@@ -1,0 +1,21 @@
+formula,predicted_conductivity,matched_families,li_fraction,stability_score,recommendation
+Li7P2BrS4,0.0005017252984825,argyrodite,0.5,4,⭐ 유망
+Li5P2ZrCl6,0.000110815063588,halide,0.357,4,⭐ 유망
+Li5P4Cl7,0.0002441246310841,halide,0.312,4,⭐ 유망
+Li7Cl7P6,0.0002437298942179,halide,0.35,4,⭐ 유망
+Li7P6Br5Cl5,0.000177478316299,halide,0.304,4,⭐ 유망
+LiPCl,0.000111741860994,halide,0.333,4,⭐ 유망
+Li2PS2,0.0001643937112751,argyrodite,0.4,4,⭐ 유망
+Li5S4Cl2S3,0.0001119677110396,halide,0.357,4,⭐ 유망
+Li7SS7P2,0.0009911121496194,argyrodite,0.412,4,⭐ 유망
+Li5Cl3S7,0.000113322409483,halide,0.333,4,⭐ 유망
+Li6S3P,0.0001298976816297,argyrodite,0.6,4,⭐ 유망
+Li6Cl3P4,0.0001223321475857,halide,0.462,4,⭐ 유망
+Li5BrP2ClS4,0.0014546791027315,"argyrodite, halide",0.385,3,⭐ 유망
+Li4P3GeCl4N,0.0001156580857379,halide,0.308,3,⭐ 유망
+Li5PS,0.0001323582449963,argyrodite,0.714,3,⭐ 유망
+Li5SP,0.0001323582449963,argyrodite,0.714,3,⭐ 유망
+Li5S3Cl6ZrP3,0.0001739177867439,"argyrodite, halide",0.278,2,🔍 검토 필요
+Li6Cl6S4Ge3P,0.0004438712334085,"argyrodite, lgps, halide",0.3,2,🔍 검토 필요
+Li5Br3P3,0.0001022471943835,unknown,0.455,2,🔍 검토 필요
+Li7NP,0.0001481388606061,unknown,0.778,1,❌ 낮음
