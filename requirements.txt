@@ -1,0 +1,6 @@
+xgboost
+matminer
+pymatgen
+streamlit
+pandas
+numpy
